@@ -49,7 +49,7 @@ SMS_Spam_Project/
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/partha0059/SMS_Spam_Project.git
+   git clone https://github.com/ayyapparaja227-arch/SMS-Spam-Prediction.git
    cd SMS_Spam_Project
    ```
 2. Install dependencies:
@@ -64,5 +64,5 @@ SMS_Spam_Project/
 ---
 
 ## 👨‍💻 Developer
-Developed and Engineered by **Partha Sarathi R**
+Developed and Engineered by **Ayyapparaja**
 Focus: Data Science & AI Research
